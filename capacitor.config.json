@@ -1,0 +1,6 @@
+{
+  "appId": "com.readingjurnal.app",
+  "appName": "Dynamic Reading Jurnal",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
